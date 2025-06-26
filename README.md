@@ -3,7 +3,7 @@
   <img src="assets/logo_mentoria_risco_credito.png" width="260" alt="Mentoria Risco de Crédito logo" />
 </p>
 
-<h1 align="center">Mentoria em Ciência de Dados aplicada ao Risco de Crédito</h1>
+<h1 align="center">Mentoria em Ciência de Dados <br> aplicada ao Risco de Crédito</h1>
 
 <p align="center">
   🚀 Programa 100 % gratuito &nbsp;|&nbsp; Hands-on &nbsp;|&nbsp; Foco em Basel II/III, IFRS 9 e Resolução 4966
@@ -34,7 +34,3 @@ Esta mentoria é uma jornada **prática** e **estruturada** para quem já domina
 
 > 🗓 **Duração:** 6 semanas &nbsp;|&nbsp; **Encontro:** 1–2 h/semana &nbsp;|&nbsp; **Formato:** remoto e ao vivo  
 > 📂 **Material:** cada pasta `ENCONTRO_X/` será adicionada aqui **logo após** a respectiva aula.
-
----
-
-## 🔖 Estrutura do repositório
