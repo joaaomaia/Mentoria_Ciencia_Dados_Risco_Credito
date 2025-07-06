@@ -1,0 +1,35 @@
+Gabarito comentado – Resolução CMN 4.966/2021
+
+1) B — A 4.966 versa sobre as perdas esperadas de crédito (ECL) em alinhamento ao IFRS 9.
+2) A — Aplica‑se a bancos, cooperativas e demais instituições financeiras supervisionadas.
+3) B — “Perda esperada de 12 meses” cobre os 12 meses seguintes à data‑base.
+4) A — Estágio 1 compreende exposições performing, sem aumento significativo de risco.
+5) C — Default regulatório é definido em 90 dias de atraso ou critérios equivalentes.
+6) B — LGD (Loss Given Default) é a proporção de perda se ocorrer default.
+7) D — A revisão Observed/Expected deve ser feita pelo menos anualmente.
+8) C — A taxa de recuperação compõe o LGD (LGD = 1 – taxa de recuperação).
+9) B — A taxa de desconto é a taxa efetiva da operação, conforme IFRS 9.
+10) C — É recomendado um work‑out period mínimo de 24 meses para medir recuperações.
+
+11) B — O critério principal de aumento significativo de risco é a elevação da PD desde o reconhecimento inicial.
+12) B — Público performing: contratos com atraso ≤30 dias e adimplentes na data‑base.
+13) B — Receita líquida esperada = EAD × (1 – PD) × LGD × taxa de contrato.
+14) C — A validação deve ser conduzida por função de risco independente da construção do modelo.
+15) C — Para Estágio 3 usa‑se o valor recuperável líquido das garantias, abatendo‑o do saldo contábil.
+16) B — Os cenários macroeconômicos afetam PDs e LGDs (overlay prospectivo).
+17) C — PDs elevadas são permitidas, mas exigem análise qualitativa de sensibilidade e governança.
+18) B — São necessários ao menos 90 dias consecutivos adimplente para sair do estado de default.
+19) B — O/E aceitável costuma ficar entre 60 % e 140 %, conforme boas práticas internas.
+20) C — Imóveis devem ter valor de mercado atualizado periodicamente por fontes confiáveis.
+
+21) D — Para Estágio 2 usa‑se PD de vida‑útil (lifetime PD).
+22) B — Custos de execução da garantia são acrescidos à perda (reduzem a recuperação líquida).
+23) C — Lado conservador implica usar o percentil 75 % (ou superior) das perdas históricas de LGD.
+24) B — Para cartões e linhas revolving, EAD inclui saldo + linha não utilizada ponderada por CCF.
+25) A — Testes de sensibilidade devem variar PD, LGD e EAD simultaneamente.
+
+26) B — Considera‑se convergência quando 95 % dos fluxos de recuperação foram recebidos.
+27) A — Proxies externas são permitidas se dados internos forem insuficientes e houver justificativa metodológica.
+28) A — Após renegociação, monitoram‑se 12 meses de bom histórico antes de voltar ao Estágio 1.
+29) B — A correlação R empregada em stress‑testing pode ser estimada internamente a partir de séries macroeconômicas.
+30) B — A transição exige enviar ao supervisor plano de implementação e impactos patrimoniais.
