@@ -1,8 +1,8 @@
 contatos/
 Send_WhatApp_mensage.ipynb
 imgs/
-ENCONTRO_1/
-ENCONTRO_2/
+#ENCONTRO_1/
+#ENCONTRO_2/
 ENCONTRO_3/
 ENCONTRO_4/
 ENCONTRO_5/
@@ -24,3 +24,14 @@ assets/ativos/
 __pycache__/
 
 ENCONTRO_0/resumo_aulas/resumo_aula1_risco_credito.md
+ENCONTRO_0/gabarito_ciencia_dados_risco_credito.txt
+ENCONTRO_0/gabarito_resolucao_4966.txt
+ENCONTRO_0/questionario_ciencia_dados_risco_credito.txt
+ENCONTRO_0/questionario_resolucao_4966.txt
+
+ENCONTRO_1/RiskPilot_ENCONTRO_1.pptx
+ENCONTRO_2/RiskPilot_ENCONTRO_2.pptx
+ENCONTRO_2/credit_data_sampler.py
+ENCONTRO_2/credit_data_synthesizer.py
+
+Individuais/
